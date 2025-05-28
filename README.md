@@ -10,16 +10,13 @@
   - Implemented KMP for code reuse, achieving 2.5x faster invoice creation
   - Developed comprehensive design libraries for consistent UI/UX
   - Implemented real-time WebSocket communication for multi-device sync
+  [View Project](https://bit.ly/swipe-ios)
 
 - **Google Summer of Code, MIT App Inventor** - iOS Developer | Apr 2023 - Sep 2023
   - Developed core iOS components (File, Progress bars, Snackbar)
   - Implemented system-level functionalities (WiFi, Bluetooth, Biometrics)
   - Enhanced user experience with custom UI components
-
-- **Coderoofs IT Solutions** - iOS Developer Intern | Oct 2022 - Feb 2023
-  - Developed end-to-end iOS applications
-  - Collaborated with design teams for feature implementation
-  - Optimized app performance and resolved bottlenecks
+  [View Project](https://summerofcode.withgoogle.com/programs/2023/projects/aeUHF4rI)
 
 ## 🛠️ Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
